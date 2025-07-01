@@ -8,6 +8,7 @@ def calculate():
 # Window Setup
 window = Tk()
 window.title("Mile to KM Converter")
+window.iconbitmap("converter.ico")
 window.minsize(width=330, height=180)
 window.config(padx=20, pady=20)
 

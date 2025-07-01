@@ -13,7 +13,7 @@ It's especially useful for students, travelers, or anyone dealing with mixed mea
 
 ## 💻 Download for Windows
 
-🔗 [Download Now!](https://github.com/yourusername/miles-to-km-converter/releases/download/v1.0.0/MilesToKm.Converter.exe)
+🔗 [Download Now!](https://github.com/mshikebkhan/miles-to-km-converter/releases/download/v1.0.0/MilesToKm.Converter.exe)
 
 ---
 

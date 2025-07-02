@@ -48,9 +48,6 @@ It's especially useful for students, travelers, or anyone dealing with mixed mea
 ```bash
 git clone https://github.com/mshikebkhan/miles-to-km-converter.git
 cd miles-to-km-converter
-python -m venv venv
-venv\Scripts\activate         # For Windows
-pip install -r requirements.txt
 python main.py
 ```
 ---

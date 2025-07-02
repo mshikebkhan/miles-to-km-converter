@@ -67,6 +67,7 @@ python main.py
 
 ## 📌 TODO Ideas
 
+- Add clicking sounds to buttons
 - Add KM to Miles Converting Option
 - Or anything else you think of!
 
